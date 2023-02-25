@@ -1,0 +1,33 @@
+To run php on your computer we need to Follow the few steps:
+
+
+1). Downloading and installing xampp
+2). Downloading and installing Vscode
+
+
+now after doing the installtion part we need to do simple things.
+
+1). open your xampp Folder . go to htdocs and create a new folder.
+2). open open that folder in vs code.
+3). Start your xampp server.
+
+
+Writing our first program in php
+
+1) Now go to vscode where you have opened a folder
+2). Create a new file - index.php
+
+3).  code-
+
+<?php
+
+
+echo "Hello world";
+
+>?
+
+
+4). Now open your file in the browser :
+   http://localhost/YOUR_FOLDER_NAME/
+   
+5). And congratulations You have successfully installed PHP.
